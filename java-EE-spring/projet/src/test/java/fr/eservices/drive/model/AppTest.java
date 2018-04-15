@@ -1,4 +1,4 @@
-package fr.tosser.funmooc.javaeespring;
+package fr.eservices.drive.model;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
